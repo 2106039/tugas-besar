@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224414798750",
+    "project_id": "produk-kecantikan",
+    "storage_bucket": "produk-kecantikan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224414798750:android:f63407222c82faa4a77c8f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uilogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2drvebYNTm0eExYpBpgyXfEmA-bOVX1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
